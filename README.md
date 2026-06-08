@@ -1,6 +1,6 @@
-# Gemini-Proxy-GAS
+# Google Semi-Browser
 
-**Gemini-Proxy-GAS** is a high-performance, Single Page Application (SPA) compatible web proxy built on Google Apps Script (GAS). It leverages the power of Google's infrastructure to bypass CORS restrictions, spoof headers, and provide a seamless browsing experience through a familiar Chrome-like interface.
+**Google Semi-Browser** is a high-performance, Single Page Application (SPA) compatible web proxy built on Google Apps Script (GAS). It leverages the power of Google's infrastructure to bypass CORS restrictions, spoof headers, and provide a seamless browsing experience through a familiar Chrome-like interface.
 
 ## 🚀 Features
 
