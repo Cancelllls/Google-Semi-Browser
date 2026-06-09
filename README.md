@@ -1,6 +1,16 @@
-# <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="32" height="32" align="center" /> Google Semi-Browser
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="120" height="120" />
+</p>
 
-**Google Semi-Browser** is a high-performance, Single Page Application (SPA) compatible web proxy built on Google Apps Script (GAS). It leverages the power of Google's infrastructure to bypass CORS restrictions, spoof headers, and provide a seamless browsing experience through a familiar Chrome-like interface.
+<h1 align="center">Google Semi-Browser</h1>
+
+<p align="center">
+  <strong>A high-performance, SPA-compatible web proxy built on Google Apps Script.</strong>
+</p>
+
+---
+
+**Google Semi-Browser** leverages the power of Google's infrastructure to bypass CORS restrictions, spoof headers, and provide a seamless browsing experience through a familiar Chrome-like interface.
 
 ## 🚀 Features
 
